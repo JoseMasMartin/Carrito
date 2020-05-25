@@ -1,0 +1,13 @@
+
+img{
+    width: 250px;
+    min-height: 250px;
+    margin: 5px;
+}
+
+.country,.city
+{
+    font-size: 18px;
+    float: right;
+}
+
